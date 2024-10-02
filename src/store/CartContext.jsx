@@ -10,6 +10,9 @@ function cartReducer(state, action){
     if (action.type ==="ADD_ITEM") {
         //
     }
+    if (action){
+
+    }
 
 }
 
